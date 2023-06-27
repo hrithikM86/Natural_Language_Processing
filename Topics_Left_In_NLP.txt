@@ -1,0 +1,8 @@
+#Topics left in NLP
+1. Text classification using DeepLearning 1.BERT 2.LSTM
+
+2. Regular expressions
+
+3. Topic Modeling
+
+4. Named entity recognization
